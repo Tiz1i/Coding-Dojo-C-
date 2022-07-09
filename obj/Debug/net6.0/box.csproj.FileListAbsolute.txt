@@ -1,0 +1,30 @@
+C:\Users\49176\Desktop\coding dojo\c#\box\bin\Debug\net6.0\box.exe
+C:\Users\49176\Desktop\coding dojo\c#\box\bin\Debug\net6.0\box.deps.json
+C:\Users\49176\Desktop\coding dojo\c#\box\bin\Debug\net6.0\box.runtimeconfig.json
+C:\Users\49176\Desktop\coding dojo\c#\box\bin\Debug\net6.0\box.dll
+C:\Users\49176\Desktop\coding dojo\c#\box\bin\Debug\net6.0\box.pdb
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.AssemblyInfo.cs
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.dll
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\refint\box.dll
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.pdb
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\box.genruntimeconfig.cache
+C:\Users\49176\Desktop\coding dojo\c#\box\obj\Debug\net6.0\ref\box.dll
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\bin\Debug\net6.0\box.exe
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\bin\Debug\net6.0\box.deps.json
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\bin\Debug\net6.0\box.runtimeconfig.json
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\bin\Debug\net6.0\box.dll
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\bin\Debug\net6.0\box.pdb
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.AssemblyInfo.cs
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.dll
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\refint\box.dll
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.pdb
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\box.genruntimeconfig.cache
+C:\Users\49176\Desktop\coding dojo\C#\Box unboxing\obj\Debug\net6.0\ref\box.dll
